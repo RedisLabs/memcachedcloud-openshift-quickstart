@@ -1,4 +1,3 @@
-
 Memcached Cloud on OpenShift in 5 Minutes
 -------------------------------------
 
@@ -53,4 +52,4 @@ For general information about Memcached project see: http://memcached.org/
 
 For more information on Memcached Cloud visit: http://garantiadata.com/memcached
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ce7d0e7ab42dee42c060d09d1c655869 "githalytics.com")](http://githalytics.com/GarantiaData/rediscloud-openshift-quickstart)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a54a7b50c49a45085798c326aa12d723 "githalytics.com")](http://githalytics.com/RedisLabs/memcachedcloud-openshift-quickstart)
